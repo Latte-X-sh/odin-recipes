@@ -1,0 +1,20 @@
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header{
+    text-align: center;
+}
+
+.landing-image, .cooking-image{
+    height: 550px;
+    width: 90%;
+    display: block;
+    margin-left: 50px;
+}
+
+
+.container{
+    margin: 0 20%;
+}
